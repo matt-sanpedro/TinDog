@@ -5,6 +5,12 @@ h1 {
   line-height: 1.5;
 }
 
+.iphone {
+  -ms-transform: rotate(20deg); /* IE 9 */
+  transform: rotate(20deg);
+  /* margin: -10px 0px 0px -180px; */
+}
+
 .container-fluid {
   padding: 3% 15%;
 }
