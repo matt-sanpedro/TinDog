@@ -1,3 +1,8 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
@@ -8,7 +13,6 @@ h1 {
 }
 
 .nav-link {
-  font-family: 'Ubuntu', sans-serif;
   font-size: 1.25rem;
   color: white;
   margin: 0 15px;
@@ -22,11 +26,11 @@ h1 {
   font-size: 2.25rem;
 }
 
-.iphone {
-  -ms-transform: rotate(20deg); /* IE 9 */
+/* .iphone {
+  -ms-transform: rotate(20deg);
   transform: rotate(20deg);
-  /* margin: -10px 0px 0px -180px; */
-}
+  margin: -10px 0px 0px -180px;
+} */
 
 .container-fluid {
   padding: 3% 15%;
