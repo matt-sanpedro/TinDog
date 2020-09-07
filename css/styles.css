@@ -11,6 +11,11 @@ h1 {
   margin-bottom: 30px;
 }
 
+h3 {
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
 /* Navigation Bar */
 .navbar {
   padding: 8px 16px 70px 0;
@@ -45,15 +50,30 @@ h1 {
 }
 
 /* Feature Section */
+.features-section {
+  padding: 7% 15%;
+}
+
+.features-box {
+  text-align: center;
+  padding: 5%;
+}
+
 .feature-icon {
   color: #ef8172;
+  margin: 80px 0 25px 0;
 }
 
-#features h3, p {
-  text-align: center;
+.feature-icon:hover {
+  color: #ff4c68;
 }
 
-#title {
+.features-section p {
+  color: #8f8f8f;
+}
+
+/* Title Section */
+.container-fluid {
   color: #fff;
   background-color: #FF4C68;
 }
