@@ -52,13 +52,14 @@ h3 {
   transform: rotate(25deg);
 }
 
-.container-fluid {
-  padding: 3% 15%;
-}
-
 /* Feature Section */
+
 .features-section {
+  height: 600px;
+  position: absolute;
   padding: 7% 15%;
+  background-color: #fff;
+  top: 600px;
 }
 
 .features-box {
@@ -80,7 +81,9 @@ h3 {
 }
 
 /* Title Section */
-.container-fluid {
+.title-section {
+  height: 1200px;
+  padding: 3% 15%;
   color: #fff;
   background-color: #FF4C68;
 }
