@@ -55,25 +55,16 @@ h3 {
   right: 30%;
 }
 
-<<<<<<< HEAD
 .container-fluid {
   padding: 3% 15% 7%;
 }
 
-=======
->>>>>>> af26d1e7a051a1d3b367f1a3628cf58c57873677
 /* Feature Section */
 
 .features-section {
-  height: 600px;
-  position: absolute;
   padding: 7% 15%;
   background-color: #fff;
-<<<<<<< HEAD
   position: relative;
-=======
-  top: 600px;
->>>>>>> af26d1e7a051a1d3b367f1a3628cf58c57873677
 }
 
 .features-box {
@@ -96,8 +87,7 @@ h3 {
 
 /* Title Section */
 .title-section {
-  height: 1200px;
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
   color: #fff;
   background-color: #FF4C68;
 }
