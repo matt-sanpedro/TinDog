@@ -149,7 +149,7 @@ h3 {
 .cta-section {
   padding: 7% 22%;
   text-align: center;
-  background-color: #ff4c68
+  background-color: #ff4c68;
 }
 
 .cta-heading {
@@ -157,4 +157,18 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
   font-size: 3.5rem;
+}
+
+/* Footer Section */
+.footer-section {
+  padding: 8% 18%;
+  text-align: center;
+}
+
+.footer-section p {
+  color: #8f8f8f;
+}
+
+.footer-icons {
+  margin: 0 10px 20px;
 }
