@@ -144,3 +144,17 @@ h3 {
 .pricing-column {
   padding: 3% 2%;
 }
+
+/* CTA Section */
+.cta-section {
+  padding: 7% 22%;
+  text-align: center;
+  background-color: #ff4c68
+}
+
+.cta-heading {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+}
