@@ -3,24 +3,18 @@ body {
   font-weight: 500;
 }
 
-h1 {
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+/* Headings */
+.big-heading {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
   font-size: 3.5rem;
   line-height: 1.5;
   margin-bottom: 30px;
-}
-
-h2 {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 900;
-  font-size: 3rem;
-  line-height: 1.5;
-}
-
-h3 {
-  font-weight: 900;
-  font-size: 1.5rem;
 }
 
 /* Navigation Bar */
@@ -74,7 +68,6 @@ h3 {
 }
 
 /* Feature Section */
-
 .features-section {
   padding: 7% 15%;
   background-color: #fff;
@@ -93,6 +86,10 @@ h3 {
 
 .feature-icon:hover {
   color: #ff4c68;
+}
+
+.feature-title {
+  font-size: 1.5rem;
 }
 
 .features-section p {
@@ -143,6 +140,16 @@ h3 {
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+.pricing-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-text {
+  font-size: 3rem;
+  line-height: 1.5;
 }
 
 /* CTA Section */
